@@ -111,11 +111,6 @@ The objective of this audit is to evaluate the organization's **business continu
 - Test and revise the contingency plan to include cloud infrastructure  
 - Implement recurring disaster recovery training  
 - Conduct failover tests on the alternate processing site  
-- Improve system recovery documentation and move backups to a **secure cloud-based** solution  
+- Improve system recovery documentation and move backups to a **secure cloud-based** solution
 
 ---
-
-## 👨‍💼 Prepared By  
-**Adam Gomez**  
-Graduate Student, GBA 5100.01  
-California State Polytechnic University, Pomona  
