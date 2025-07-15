@@ -1,6 +1,14 @@
 # 🛡️ IT Business Continuity & Recovery Audit  
 ---
 
+## 📘 About the Project  
+This project is a business continuity and disaster recovery audit conducted for **AirFlex Experts, Inc.**, a growing HVAC company based in Southern California. The audit was part of a graduate-level course requirement and focused on identifying risks and evaluating the company's preparedness in the event of operational disruptions.  
+
+Using the NIST SP 800-53 Revision 5 framework, this audit reviews the organization’s current policies, contingency plans, disaster recovery training, and system backup strategies. The findings and recommendations aim to strengthen the company's resilience against unplanned outages or disasters, ensuring the continuity of critical systems and services.
+
+---
+---
+
 ## 🎥 Video Demonstration
 
 **YouTube**: [It Business Continuity Example](https://www.youtube.com/watch?v=1FXZQY_0R0g)
