@@ -11,7 +11,7 @@ Using the NIST SP 800-53 Revision 5 framework, this audit reviews the organizati
 
 ## 🎥 Video Demonstration
 
-**YouTube**: [It Business Continuity Example](https://www.youtube.com/watch?v=1FXZQY_0R0g)
+**YouTube**: [It Business Continuity Example](https://youtu.be/SqhHGkyn9ZU)
 
 ---
 
